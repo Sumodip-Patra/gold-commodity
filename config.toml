@@ -1,0 +1,8 @@
+duty_pct = 0.06      # import duty as a fraction
+carry_pct = 0.06     # annual cost of carry as a fraction
+rich_pct = 0.5       # tag RICH above fair by more than this percent
+cheap_pct = 0.5      # tag CHEAP below fair by more than this percent
+z_window = 20
+z_limit = 2.0
+roll_days = 5
+min_volume = 50
